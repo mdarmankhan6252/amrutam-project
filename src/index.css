@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primaryBg{
+   background-color: #FFF7E2;
+}
+.primaryColor{
+   color: #3A643B;   
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+   color: #3A643B !important;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+   color: #3A643B !important;
+}
+
+.swiper-pagination-bullet {
+   background-color: #3A643B !important;
+}
+
+.swiper-pagination-bullet-active {
+   background-color: #3A643B !important;
+}
